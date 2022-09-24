@@ -82,7 +82,7 @@ return `╭────[ *${namabot}* ]
 │ *Emote* : ${cekUser("emote", sender)}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
-╭────[ *UTAMA* ]${Utama}
+╭────[ *MAIN MENU* ]${Utama}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
 ╭────[ *ANIME(SFW)* ]${animeSfw}
@@ -91,7 +91,7 @@ return `╭────[ *${namabot}* ]
 ╭────[ *RANDOM* ]${Random}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
-╭────[ *CREATIF* ]${Creatif}
+╭────[ *CREATIVE* ]${Creatif}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
 ╭────[ *RANDOMTAG* ]${Randomtag}
@@ -115,7 +115,7 @@ return `╭────[ *${namabot}* ]
 ╭────[ *HACKER* ]${Hacker}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
-╭────[ *GAME* ]${Game}
+╭────[ *GAMES* ]${Game}
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
 ╭────[ *TAG-X* ]${tagX}
